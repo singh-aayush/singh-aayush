@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ0OWJmeHJuZGswaWdjajdwMGNhN3J3OWE4dmM3cXMwMjN2eW8xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="400" style ="border-radius: 8" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ0OWJmeHJuZGswaWdjajdwMGNhN3J3OWE4dmM3cXMwMjN2eW8xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singh-aayush&label=Profile%20views&color=0e75b6&style=flat" alt="singh-aayush" /> </p>
 

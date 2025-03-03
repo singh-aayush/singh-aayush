@@ -1,6 +1,6 @@
 ![logo](https://github.com/singh-aayush/singh-aayush/blob/main/Grey%20Minimalist%20Modern%20Social%20Media%20Specialist%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Aayush Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ0OWJmeHJuZGswaWdjajdwMGNhN3J3OWE4dmM3cXMwMjN2eW8xNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
